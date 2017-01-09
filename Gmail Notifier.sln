@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gmail Notifier", "Gmail Notifier\Gmail Notifier.csproj", "{089D9B24-4B6D-477D-8816-F83DA78BD684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089D9B24-4B6D-477D-8816-F83DA78BD684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089D9B24-4B6D-477D-8816-F83DA78BD684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089D9B24-4B6D-477D-8816-F83DA78BD684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089D9B24-4B6D-477D-8816-F83DA78BD684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_BuildVersioningStyle = None.None.Increment.TimeStamp
+		BuildVersion_StartDate = 2014/9/9
+		BuildVersion_UpdateAssemblyVersion = True
+		BuildVersion_UpdateFileVersion = True
+		BuildVersion_AssemblyInfoFilename = Gmail Notifier\Properties\AssemblyInfo.cs
+		BuildVersion_UseGlobalSettings = True
+	EndGlobalSection
+EndGlobal

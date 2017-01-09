@@ -1,0 +1,24 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\bin\Release\Gmail Notifier.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\bin\Release\Gmail Notifier.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail_Notifier.Controls.gmailFeedViewer.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail_Notifier.frmAbout.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail_Notifier.frmNotify.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail_Notifier.frmSettings.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail_Notifier.frmTray.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail_Notifier.Properties.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail Notifier.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail Notifier.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Release\Gmail Notifier.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\bin\Debug\Gmail Notifier.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\bin\Debug\Gmail Notifier.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.Controls.gmailFeedViewer.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmAbout.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmNotify.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmSettings.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmTray.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.Properties.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.pdb

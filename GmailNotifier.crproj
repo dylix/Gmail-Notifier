@@ -1,0 +1,5 @@
+<project outputDir="C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier\Confused" baseDir="C:\Documents and Settings\Admin\My Documents\Visual Studio 2005\Projects\Gmail Notifier\Gmail Notifier" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" inherit="false" />
+  <packer id="compressor" />
+  <module path="bin\Release\Gmail Notifier.exe" />
+</project>

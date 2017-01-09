@@ -1,0 +1,48 @@
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.Controls.gmailFeedViewer.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmAbout.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmNotify.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmSettings.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmTray.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\bin\Debug\Gmail Notifier.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail Notifier\Gmail Notifier\bin\Debug\Gmail Notifier.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\bin\Debug\Gmail Notifier.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\bin\Debug\Gmail Notifier.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.Controls.gmailFeedViewer.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmAbout.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmNotify.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmSettings.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.frmTray.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail_Notifier.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Gmail-Notifier\Gmail Notifier\obj\Debug\Gmail Notifier.pdb
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail Notifier.exe
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail Notifier.pdb
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\bin\Debug\Gmail Notifier.exe
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\bin\Debug\Gmail Notifier.pdb
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail Notifier.csprojResolveAssemblyReference.cache
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail_Notifier.Controls.gmailFeedViewer.resources
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail_Notifier.frmAbout.resources
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail_Notifier.frmNotify.resources
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail_Notifier.frmSettings.resources
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail_Notifier.frmTray.resources
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail_Notifier.Properties.Resources.resources
+D:\Users\Chris\Desktop\Gmail-Notifier-master\Gmail Notifier\obj\Debug\Gmail Notifier.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\bin\Debug\Gmail Notifier.exe
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\bin\Debug\Gmail Notifier.pdb
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail Notifier.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail_Notifier.Controls.gmailFeedViewer.resources
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail_Notifier.frmAbout.resources
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail_Notifier.frmNotify.resources
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail_Notifier.frmSettings.resources
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail_Notifier.frmTray.resources
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail_Notifier.Properties.Resources.resources
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail Notifier.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail Notifier.exe
+C:\Users\Chris\Dropbox\Gmail-Notifier-master\Gmail\Gmail Notifier\obj\Debug\Gmail Notifier.pdb

@@ -1,0 +1,3 @@
+"$(ProjectDir)AssemblyInfoUtil.exe" "-inc:4" "$(ProjectDir)Properties\AssemblyInfo.cs"
+
+post-prebuil;d
